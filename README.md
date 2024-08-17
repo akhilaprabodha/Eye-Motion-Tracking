@@ -22,8 +22,8 @@ pip install opencv-python numpy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/akhilaprabodha/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/akhilaprabodha/Eye-Motion-Tracking.git
+cd Eye-Motion-Tracking
 ```
 
 2. Run the script:
