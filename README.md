@@ -45,15 +45,17 @@ python eye_motion_tracking.py
 **1. Thresholded Output 🔲**
 - This video shows the thresholded version of the ROI, where the eye is isolated in a binary image.
 
+<img src="https://github.com/akhilaprabodha/Eye-Tracking-System/blob/main/gifs_in_readme/output_threshold-ezgif.com-video-to-gif-converter.gif" width="100%">
 
 **2. Grayscale ROI Output 🌑**
 - This video displays the grayscale version of the ROI, which is used as the base for further processing.
 
-<img src="https://github.com/akhilaprabodha/Eye-Tracking-System/blob/main/gifs_in_readme/output_gray_roi-ezgif.com-video-to-gif-converter.gif" alt="Grayscale ROI" style="width: 100%; max-width: 600px;">
+<img src="https://github.com/akhilaprabodha/Eye-Tracking-System/blob/main/gifs_in_readme/output_gray_roi-ezgif.com-video-to-gif-converter.gif" width="100%">
 
 **3. Contour Detection ROI Output 🎯**
 - This video highlights the ROI with the detected contour, bounding box, and crosshairs.
 
+<img src="https://github.com/akhilaprabodha/Eye-Tracking-System/blob/main/gifs_in_readme/output_roi-ezgif.com-video-to-gif-converter.gif" width="100%">
 
 ## Contributing 🤝
 Contributions are welcome! If you have any improvements or additional features in mind, feel free to open a pull request.
