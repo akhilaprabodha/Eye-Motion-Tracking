@@ -49,6 +49,7 @@ python eye_motion_tracking.py
 **2. Grayscale ROI Output 🌑**
 - This video displays the grayscale version of the ROI, which is used as the base for further processing.
 
+<img src="https://github.com/akhilaprabodha/Eye-Tracking-System/blob/main/gifs_in_readme/output_gray_roi-ezgif.com-video-to-gif-converter.gif" alt="Grayscale ROI" style="width: 100%; max-width: 600px;">
 
 **3. Contour Detection ROI Output 🎯**
 - This video highlights the ROI with the detected contour, bounding box, and crosshairs.
