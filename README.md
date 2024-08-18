@@ -2,6 +2,8 @@
 
 This repository contains a Python script that processes a video to detect and highlight the region of interest (ROI) around the eye. The script performs real-time video analysis, applying various image processing techniques to isolate and track eye movement.
 
+<img src="https://github.com/akhilaprabodha/Eye-Motion-Tracking/blob/main/gifs_in_readme/eye_recording-ezgif.com-video-to-gif-converter.gif" width="100%">
+
 ## Features ✨
 
 - `Grayscale Conversion:` Converts the region of interest (ROI) to grayscale for easier processing.
